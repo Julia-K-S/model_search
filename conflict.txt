@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LINE=branch2_v3
+=======
+LINE=branch1_v3
+>>>>>>> branch1
